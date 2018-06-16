@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "php.validate.run": "onType",
+    "phpcs.executablePath": "/Users/davidthomas/.composer/vendor/squizlabs/php_codesniffer/bin/phpcs"
+    
+}
