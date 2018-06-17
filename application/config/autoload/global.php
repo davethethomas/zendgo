@@ -12,8 +12,5 @@
  */
 
 return [
-    'db' => [
-        'driver' => 'Pgsql'
-    ]
     // ...
 ];
