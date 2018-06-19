@@ -1,0 +1,11 @@
+ {
+    "name": "Zend",
+    "includePath": [
+        "/Applications/XAMPP/xamppfiles/htdocs/zendkit/application/vendor/zendframework"
+
+    ],
+    "browse" : {
+        "limitSymbolsToIncludedHeaders" : true,
+        "databaseFilename" : ""
+    }
+}
